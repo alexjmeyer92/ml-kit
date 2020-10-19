@@ -8,8 +8,11 @@ as a general concept how an API service could be used to simplify the process of
 API Swagger Docs Are available here: http://localhost:8000/docs
 """
 # Set some constants that will be used later
-mlkit_url = "http://localhost:8000/"
-project_name = "Alex_Iris_Predection"
+mlkit_url = "https://alexjmeyer92-mlkit-1428.zeet.app/"
+
+# Fill in your desired project name here.
+# I think the only constraint is no spaces in the name
+project_name = ""
 
 # Now let's load the iris data set
 with open("./sample_data/iris_data.json", "r") as f:
