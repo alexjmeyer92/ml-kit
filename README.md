@@ -1,5 +1,5 @@
 # ml-kit
-Project to play with creating a basic ML As A Service platform
+Project to play with creating a basic ML As A Service API
 
 ## Core Dependencies
 sklearn
